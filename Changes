@@ -1,0 +1,6 @@
+Revision history for Perl extension WWW::TwentyQuestions.
+
+0.01  Sun Dec 24 19:54:46 2006
+	- original version; created by h2xs 1.23 with options
+		-X -n WWW::TwentyQuestions
+
